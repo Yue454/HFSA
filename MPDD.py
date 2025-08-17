@@ -90,7 +90,7 @@ def train(_class_):
 
 if __name__ == '__main__':
 
-    item_list = ["bracket_brown", "metal_plate"]
+    item_list = ["bracket_black", "bracket_brown", "bracket_white", "connector", "metal_plate", "tubes"]
 
 
     for i in item_list:
